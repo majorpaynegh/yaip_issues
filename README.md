@@ -1,1 +1,1 @@
-# Repository for traacking issues in the yaip application.
+# Repository for tracking issues in the yaip application.
